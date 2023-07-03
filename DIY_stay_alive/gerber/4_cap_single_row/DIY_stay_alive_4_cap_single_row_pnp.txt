@@ -1,0 +1,27 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=DIY_stay_alive_4_cap_single_row
+*Date=18:57:38
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;5.86499;-6.87541;90;Bottom;J2
+2;;;13.8533;-1.62675;0;Bottom;Hole2
+3;;;13.8499;-1.63618;0;Bottom;+
+4;1mF;100 mil [THT, electrolytic];21.6131;-5.21196;180;Bottom;C4
+5;;;20.5424;-1.62675;0;Bottom;Hole1
+6;1mF;100 mil [THT, electrolytic];15.3078;-5.21196;180;Bottom;C1
+7;;;20.505;-1.60596;0;Bottom;GND
+8;;THT;18.3973;-6.87541;90;Bottom;J3
+9;;THT;7.20149;-1.71225;90;Bottom;J1
+10;1mF;100 mil [THT, electrolytic];2.67263;-5.21196;180;Bottom;C3
+11;1mF;100 mil [THT, electrolytic];8.99961;-5.21196;180;Bottom;C2
+12;;;2.91782;-0.533923;0;Bottom;TXT1
