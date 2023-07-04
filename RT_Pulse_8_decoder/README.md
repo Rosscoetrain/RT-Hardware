@@ -7,3 +7,8 @@ It can be used for any solenoid devices.
 See docs folder for more information.
 
 
+The software for this is here:
+
+https://github.com/Rosscoetrain/DCC-Turnout-Decoder-Direct
+
+
