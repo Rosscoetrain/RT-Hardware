@@ -1,4 +1,4 @@
-Rosscoe Train Pulse 8 turnout decoder.
+# Rosscoe Train Pulse 8 turnout decoder.
 
 This is a DCC stationary decoder for 8 solenoid driven turnouts or signals.
 
@@ -9,6 +9,6 @@ See docs folder for more information.
 
 The software for this is here:
 
-https://github.com/Rosscoetrain/DCC-Turnout-Decoder-Direct
+[Dcc-Turnout-Decoder-Direct](https://github.com/Rosscoetrain/DCC-Turnout-Decoder-Direct)
 
 
