@@ -1,2 +1,4 @@
-*.odt
+*/docs/*.odt
+*/DCC*.fzz
+*/DCC/*
 
