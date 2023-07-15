@@ -2,11 +2,11 @@
 
 These are relay control decoders.
 
-##RT_Dual_motor_decoder_2.fzz
+##RT_Decoder_Marklin_7186.fzz
 
 This is designed to control a Marklin 7186 turntable via DCC.
 
-##RT_Dual_motor_decoder_3.fzz
+##RT_Decoder_Marklin_7051.fzz
 
 This is designed to control a Marklin 7051 Slewing crane.
 
