@@ -1,4 +1,4 @@
-# DCC-Solenoid-Turnout-Driver
+# RT Solenoid Turnout Driver
 
 This board is designed to control dual solenoid turnouts such as the Marklin M track 5117, 5202, 5120, 5214,
 5207 or 5128. With or without a capacitor discharge unit (CDU).
