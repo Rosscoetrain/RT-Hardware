@@ -1,8 +1,11 @@
 */docs/*.odt
 */docs/*.xlsx
 */docs/images
+*/docs/_old
 */gerber
 */info
 */DCC*.fzz
 */DCC/*
 */easyeda
+*/case
+
