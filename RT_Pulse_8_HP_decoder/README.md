@@ -6,4 +6,8 @@ With TIP120 it provides 5A
 
 With TIP132 it provides 8A
 
+Printed circuit boards are available here:
+
+https://www.pcbway.com/project/shareproject/RT_DCC_Pulse_8_High_Power_Turnout_Decoder_with_capacitor_discharge_unit_ae884dd9.html
+
 
