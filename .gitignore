@@ -12,4 +12,6 @@
 */pcbway
 */case
 */images
-
+*.zip
+EX-IR_Sensor
+RT_Diode_current_sensor
