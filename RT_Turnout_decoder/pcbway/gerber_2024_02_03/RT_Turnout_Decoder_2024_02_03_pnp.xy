@@ -1,0 +1,52 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=RT_Turnout_Decoder_2024_02_03
+# Date=18:44:20
+# CreatedBy=Fritzing 1.0.0rc.2023-06-02.CD-4157-0-6b14cfe9
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+J9,";;;;;;;;","THT",1523.46,3355.18,0,Top,THT
+Via17,";;;;;;;;","",2735.5,3113.93,0,Top,MANUAL
+J21,";;;;;;;;","THT",3199.14,1370.76,0,Top,THT
+J19,";;;;;;;;","THT",3199.14,3288.17,0,Top,THT
+BR1,";;;;;;;;","round [THT]",755.844,450.426,0,Top,THT
+R3,"10k;;;;;0.25;;;","THT",1942.19,1015.92,0,Top,THT
+C2,";22µF;;20V;;;;;","100 mil [THT, electrolytic]",1989.11,507.006,90,Top,THT
+Via13,";;;;;;;;","",2941.39,3586.59,0,Top,MANUAL
+J11,";;;;;;;;","THT",122.078,2251.85,0,Top,THT
+C3,";1µF;;20V;;;;;","100 mil [THT, tantalum]",2295.39,507.006,90,Top,THT
+Via16,";;;;;;;;","",2785.06,3193.37,0,Top,MANUAL
+Via11,";;;;;;;;","",3043.59,3799.72,0,Top,MANUAL
+Via4,";;;;;;;;","",2785.06,3542.1,0,Top,MANUAL
+Via10,";;;;;;;;","",3043.59,2936.46,0,Top,MANUAL
+J20,";;;;;;;;","THT",3199.14,2419.54,0,Top,THT
+J22,";;;;;;;;","THT",3199.14,505.439,0,Top,THT
+Via1,";;;;;;;;","",1384.71,2102.07,0,Top,MANUAL
+Via7,";;;;;;;;","",2892.55,3244.71,0,Top,MANUAL
+D1,";;;;;;;;","300 mil [THT]",1134.28,864.95,90,Top,THT
+C1,";1µF;;20V;;;;;","100 mil [THT, tantalum]",1233.11,508.684,90,Top,THT
+Via15,";;;;;;;;","",2842.21,3293.46,0,Top,MANUAL
+Via3,";;;;;;;;","",2735.5,3644.12,0,Top,MANUAL
+Nano,";;;;;;;;","",1787.64,1906.95,-90,Top,MANUAL
+Via2,";;;;;;;;","",2473.63,1118.05,0,Top,MANUAL
+R1,"1k;;;;;0.25;;;","THT",395.1,1012.95,0,Top,THT
+R2,"10k;;;;;0.25;;;","THT",1942.19,914.106,0,Top,THT
+Via8,";;;;;;;;","",2941.39,3142.68,0,Top,MANUAL
+MCP23017,";;;;;;;;","THT",882.467,3355.18,0,Top,THT
+J18,";;;;;;;;","THT",240,464.35,0,Top,THT
+Via14,";;;;;;;;","",2892.55,3488.71,0,Top,MANUAL
+Via5,";;;;;;;;","",2842.21,3436.47,0,Top,MANUAL
+IC2,";;;;;;;;","DIP (Dual Inline) [THT]",1467.68,967.539,0,Top,THT
+U1,";;;5V;;;;;","TO220 [THT]",1616.26,519.206,0,Top,THT
+Via12,";;;;;;;;","",2989.32,3700.56,0,Top,MANUAL
+J15,";;;;;;;;","THT",353.122,2251.85,0,Top,THT
+Via9,";;;;;;;;","",2989.32,3038.48,0,Top,MANUAL
