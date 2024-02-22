@@ -2,6 +2,7 @@
 */docs/*.xlsx
 */docs/images
 */docs/_old
+*/docs/.~lock.*
 */gerber
 */info
 */DCC*.fzz
@@ -14,7 +15,6 @@
 */images
 *.zip
 
-.~lock.*
 
 EX-IR_Sensor
 RT_Diode_current_sensor
