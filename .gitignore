@@ -1,4 +1,4 @@
-*/docs/*.odt*
+*/docs/*.odt
 */docs/*.xlsx
 */docs/images
 */docs/_old
@@ -13,6 +13,8 @@
 */case
 */images
 *.zip
+
+.~lock.*
 
 EX-IR_Sensor
 RT_Diode_current_sensor
