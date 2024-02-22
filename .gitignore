@@ -1,4 +1,4 @@
-*/docs/*.odt
+*/docs/*.odt*
 */docs/*.xlsx
 */docs/images
 */docs/_old
@@ -13,5 +13,7 @@
 */case
 */images
 *.zip
+
 EX-IR_Sensor
 RT_Diode_current_sensor
+RT_3_wire_to_2_wire
