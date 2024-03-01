@@ -16,6 +16,10 @@
 */images
 *.zip
 
+*.FCStd*
+*.gcode
+*.stl
+
 
 EX-IR_Sensor
 RT_Diode_current_sensor
