@@ -1,5 +1,19 @@
 # RT Solenoid Turnout Driver
 
+This is deprecated;
+
+It has been combined into either of these:
+
+https://github.com/Rosscoetrain/RT-Hardware/tree/master/RT_Pulse_8_decoder
+
+https://github.com/Rosscoetrain/RT-Hardware/tree/master/RT_Pulse_8_HP_decoder
+
+
+It is here for reference for users.
+
+
+
+
 This board is designed to control dual solenoid turnouts such as the Marklin M track 5117, 5202, 5120, 5214,
 5207 or 5128. With or without a capacitor discharge unit (CDU).
 
